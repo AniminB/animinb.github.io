@@ -1,2 +1,2 @@
 # animinb.github.io
-GitHub Page
+GitHub Pages
