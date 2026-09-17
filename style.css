@@ -1,0 +1,45 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+
+    font-family: Arial, sans-serif;
+    line-height: 1.4;
+    color: #222;
+}
+
+header {
+    margin-bottom: 60px;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+nav a {
+    margin-right: 15px;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+h2 {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+}
+
+article {
+    margin-bottom: 30px;
+}
+
+a {
+    color: #333;
+}
+
+footer {
+    margin-top: 80px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #777;
+}
